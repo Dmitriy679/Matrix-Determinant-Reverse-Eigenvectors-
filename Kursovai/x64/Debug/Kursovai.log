@@ -1,0 +1,9 @@
+﻿  Matrix.cpp
+C:\Users\dimaj\Desktop\Не входть!\Kursovai\Kursovai\Matrix.cpp(1,13): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\dimaj\Desktop\Не входть!\Kursovai\Kursovai\Matrix.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+  Main.cpp
+C:\Users\dimaj\Desktop\Не входть!\Kursovai\Kursovai\Matrix.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\dimaj\Desktop\Не входть!\Kursovai\Kursovai\Main.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\dimaj\Desktop\Не входть!\Kursovai\Kursovai\Main.cpp(13,6): warning C4101: n: неиспользованная локальная переменная
+  Создание кода...
+  Kursovai.vcxproj -> C:\Users\dimaj\Desktop\Не входть!\Kursovai\x64\Debug\Kursovai.exe
